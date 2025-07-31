@@ -1,0 +1,112 @@
+{
+  "uuid": "118ffe78336838c540f02558595e6611",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnRPdUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d189a06f09e486c2730a2b11b76612237434321a/1f159d1a65ce5b522b09167e8887a6aa.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/118ffe78336838c540f02558595e6611-baked.webp",
+  "sc_baked_img": null,
+  "name": "Declan Cronin",
+  "short_description": null,
+  "rarity": "Common",
+  "team": "Marlins",
+  "team_short_name": "MIA",
+  "ovr": 63,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "51",
+  "age": 27,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "225 lbs",
+  "height": "6'4\"",
+  "born": "New Jersey",
+  "is_hitter": false,
+  "stamina": 28,
+  "pitching_clutch": 47,
+  "hits_per_bf": 54,
+  "k_per_bf": 58,
+  "bb_per_bf": 58,
+  "hr_per_bf": 85,
+  "pitch_velocity": 88,
+  "pitch_control": 63,
+  "pitch_movement": 84,
+  "contact_left": 6,
+  "contact_right": 3,
+  "power_left": 8,
+  "power_right": 4,
+  "plate_vision": 4,
+  "plate_discipline": 6,
+  "batting_clutch": 5,
+  "bunting_ability": 38,
+  "drag_bunting_ability": 7,
+  "hitting_durability": 0,
+  "fielding_durability": 78,
+  "fielding_ability": 53,
+  "arm_strength": 49,
+  "arm_accuracy": 56,
+  "reaction_time": 54,
+  "blocking": 0,
+  "speed": 37,
+  "baserunning_ability": 6,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Slider",
+      "speed": 88,
+      "control": 63,
+      "movement": 80
+    },
+    {
+      "name": "Sinker",
+      "speed": 93,
+      "control": 54,
+      "movement": 84
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 94,
+      "control": 71,
+      "movement": 63
+    },
+    {
+      "name": "Sweeper",
+      "speed": 82,
+      "control": 65,
+      "movement": 65
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Homebody",
+      "description": "Performs better when playing at home",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5e6beac901e9b4891ceb7d9d53f25ac11157bd2/GPerk_Homebody.webp"
+    },
+    {
+      "name": "Night Player",
+      "description": "Performs better when playing night games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f9bdfe4398663d5983c5ed896970ad86ade5539/GPerk_NightPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 63,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

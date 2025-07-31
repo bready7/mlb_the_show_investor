@@ -1,0 +1,113 @@
+{
+  "uuid": "7eaee1217e0cc9bb58d0f21ad924e7c7",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTEtMdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--78b59cac324b406d9fef083b8559474362414d2b/fc8ac376c7fc75eb41089b216dddb9d0.png",
+  "baked_img": "https://cards.theshow.com/mlb25/7eaee1217e0cc9bb58d0f21ad924e7c7-baked.webp",
+  "sc_baked_img": null,
+  "name": "Grayson Rodriguez",
+  "short_description": null,
+  "rarity": "Silver",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 77,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "30",
+  "age": 25,
+  "bat_hand": "L",
+  "throw_hand": "R",
+  "weight": "230 lbs",
+  "height": "6'5\"",
+  "born": "Texas",
+  "is_hitter": false,
+  "stamina": 81,
+  "pitching_clutch": 64,
+  "hits_per_bf": 65,
+  "k_per_bf": 64,
+  "bb_per_bf": 66,
+  "hr_per_bf": 63,
+  "pitch_velocity": 95,
+  "pitch_control": 67,
+  "pitch_movement": 88,
+  "contact_left": 10,
+  "contact_right": 16,
+  "power_left": 7,
+  "power_right": 12,
+  "plate_vision": 13,
+  "plate_discipline": 11,
+  "batting_clutch": 10,
+  "bunting_ability": 33,
+  "drag_bunting_ability": 9,
+  "hitting_durability": 0,
+  "fielding_durability": 80,
+  "fielding_ability": 53,
+  "arm_strength": 52,
+  "arm_accuracy": 44,
+  "reaction_time": 46,
+  "blocking": 0,
+  "speed": 35,
+  "baserunning_ability": 15,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 96,
+      "control": 63,
+      "movement": 88
+    },
+    {
+      "name": "Circle Change",
+      "speed": 83,
+      "control": 93,
+      "movement": 65
+    },
+    {
+      "name": "Slider",
+      "speed": 87,
+      "control": 62,
+      "movement": 72
+    },
+    {
+      "name": "Curveball",
+      "speed": 81,
+      "control": 62,
+      "movement": 77
+    },
+    {
+      "name": "2-Seam Fastball",
+      "speed": 96,
+      "control": 59,
+      "movement": 42
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 77,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

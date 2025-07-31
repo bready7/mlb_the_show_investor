@@ -1,0 +1,113 @@
+{
+  "uuid": "505909fe2bbcf3662e7f4773a69b7cea",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTnBVdUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--54452513ca16bd2851c6f87cbbf19ca6bcd898c7/5ad4e1413280a8a44df63fd0a89bfcfa.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/505909fe2bbcf3662e7f4773a69b7cea-baked.webp",
+  "sc_baked_img": null,
+  "name": "Michael Grove",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 67,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "29",
+  "age": 28,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "200 lbs",
+  "height": "6'3\"",
+  "born": "West Virginia",
+  "is_hitter": false,
+  "stamina": 37,
+  "pitching_clutch": 43,
+  "hits_per_bf": 54,
+  "k_per_bf": 61,
+  "bb_per_bf": 72,
+  "hr_per_bf": 58,
+  "pitch_velocity": 94,
+  "pitch_control": 60,
+  "pitch_movement": 98,
+  "contact_left": 18,
+  "contact_right": 11,
+  "power_left": 16,
+  "power_right": 13,
+  "plate_vision": 16,
+  "plate_discipline": 13,
+  "batting_clutch": 14,
+  "bunting_ability": 37,
+  "drag_bunting_ability": 8,
+  "hitting_durability": 0,
+  "fielding_durability": 78,
+  "fielding_ability": 43,
+  "arm_strength": 45,
+  "arm_accuracy": 50,
+  "reaction_time": 47,
+  "blocking": 0,
+  "speed": 29,
+  "baserunning_ability": 18,
+  "baserunning_aggression": 7,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Slider",
+      "speed": 87,
+      "control": 77,
+      "movement": 81
+    },
+    {
+      "name": "2-Seam Fastball",
+      "speed": 96,
+      "control": 66,
+      "movement": 42
+    },
+    {
+      "name": "Cutter",
+      "speed": 93,
+      "control": 45,
+      "movement": 98
+    },
+    {
+      "name": "Knuckle-curve",
+      "speed": 80,
+      "control": 56,
+      "movement": 94
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 94,
+      "control": 59,
+      "movement": 78
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 67,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

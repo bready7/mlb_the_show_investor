@@ -1,0 +1,119 @@
+{
+  "uuid": "652901ebfb11a3676763839aa0a4c33f",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRldMdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0ef148ea7be9399ed72314c904b02aa5e15f5450/63987bfc2def351de9911720e226748a.png",
+  "baked_img": "https://cards.theshow.com/mlb25/652901ebfb11a3676763839aa0a4c33f-baked.webp",
+  "sc_baked_img": null,
+  "name": "A.J. Puk",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 73,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "33",
+  "age": 29,
+  "bat_hand": "L",
+  "throw_hand": "L",
+  "weight": "248 lbs",
+  "height": "6'7\"",
+  "born": "Minnesota",
+  "is_hitter": false,
+  "stamina": 29,
+  "pitching_clutch": 92,
+  "hits_per_bf": 64,
+  "k_per_bf": 72,
+  "bb_per_bf": 63,
+  "hr_per_bf": 63,
+  "pitch_velocity": 97,
+  "pitch_control": 68,
+  "pitch_movement": 88,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 2,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 37,
+  "drag_bunting_ability": 10,
+  "hitting_durability": 0,
+  "fielding_durability": 77,
+  "fielding_ability": 45,
+  "arm_strength": 79,
+  "arm_accuracy": 50,
+  "reaction_time": 33,
+  "blocking": 0,
+  "speed": 42,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 12,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 96,
+      "control": 90,
+      "movement": 84
+    },
+    {
+      "name": "Slider",
+      "speed": 85,
+      "control": 78,
+      "movement": 74
+    },
+    {
+      "name": "Sweeper",
+      "speed": 82,
+      "control": 55,
+      "movement": 60
+    },
+    {
+      "name": "Sinker",
+      "speed": 95,
+      "control": 62,
+      "movement": 88
+    },
+    {
+      "name": "Splitter",
+      "speed": 84,
+      "control": 57,
+      "movement": 60
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 73,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK",
+    "DIAMOND QUEST"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "uuid": "742aed9fb8c83d3593cfa6cad71a1996",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQlJvdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3b238552969a3098ccc29641acadf1a3802ba44d/d981d6a60bd8799613ba89857c09aa69.png",
+  "baked_img": "https://cards.theshow.com/mlb25/742aed9fb8c83d3593cfa6cad71a1996-baked.webp",
+  "sc_baked_img": null,
+  "name": "Cody Bradford",
+  "short_description": null,
+  "rarity": "Silver",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 76,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "61",
+  "age": 27,
+  "bat_hand": "L",
+  "throw_hand": "L",
+  "weight": "197 lbs",
+  "height": "6'4\"",
+  "born": "Texas",
+  "is_hitter": false,
+  "stamina": 61,
+  "pitching_clutch": 66,
+  "hits_per_bf": 73,
+  "k_per_bf": 54,
+  "bb_per_bf": 83,
+  "hr_per_bf": 55,
+  "pitch_velocity": 51,
+  "pitch_control": 63,
+  "pitch_movement": 73,
+  "contact_left": 8,
+  "contact_right": 11,
+  "power_left": 4,
+  "power_right": 8,
+  "plate_vision": 8,
+  "plate_discipline": 6,
+  "batting_clutch": 10,
+  "bunting_ability": 37,
+  "drag_bunting_ability": 7,
+  "hitting_durability": 0,
+  "fielding_durability": 78,
+  "fielding_ability": 46,
+  "arm_strength": 45,
+  "arm_accuracy": 53,
+  "reaction_time": 52,
+  "blocking": 0,
+  "speed": 39,
+  "baserunning_ability": 8,
+  "baserunning_aggression": 7,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 90,
+      "control": 82,
+      "movement": 73
+    },
+    {
+      "name": "Circle Change",
+      "speed": 81,
+      "control": 65,
+      "movement": 65
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 75,
+      "control": 46,
+      "movement": 42
+    },
+    {
+      "name": "Slider",
+      "speed": 83,
+      "control": 59,
+      "movement": 56
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Homebody",
+      "description": "Performs better when playing at home",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5e6beac901e9b4891ceb7d9d53f25ac11157bd2/GPerk_Homebody.webp"
+    },
+    {
+      "name": "Night Player",
+      "description": "Performs better when playing night games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f9bdfe4398663d5983c5ed896970ad86ade5539/GPerk_NightPlayer.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 76,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

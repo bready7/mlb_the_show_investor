@@ -1,0 +1,113 @@
+{
+  "uuid": "84e43a60237ffece9cd4c85c103e298c",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRWRydWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f099238c44f613d7d3eabe0bf22e6dcf82bf6b1f/942d55dfd896526b7183c6bbb2e18ddf.png",
+  "baked_img": "https://cards.theshow.com/mlb25/84e43a60237ffece9cd4c85c103e298c-baked.webp",
+  "sc_baked_img": null,
+  "name": "Jos\u00e9 Leclerc",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 72,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "37",
+  "age": 31,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "195 lbs",
+  "height": "6'0\"",
+  "born": "Dominican Republic",
+  "is_hitter": false,
+  "stamina": 25,
+  "pitching_clutch": 84,
+  "hits_per_bf": 77,
+  "k_per_bf": 69,
+  "bb_per_bf": 46,
+  "hr_per_bf": 58,
+  "pitch_velocity": 99,
+  "pitch_control": 66,
+  "pitch_movement": 99,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 2,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 64,
+  "drag_bunting_ability": 0,
+  "hitting_durability": 0,
+  "fielding_durability": 87,
+  "fielding_ability": 45,
+  "arm_strength": 68,
+  "arm_accuracy": 46,
+  "reaction_time": 36,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 10,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 95,
+      "control": 66,
+      "movement": 97
+    },
+    {
+      "name": "Slider",
+      "speed": 82,
+      "control": 75,
+      "movement": 76
+    },
+    {
+      "name": "Cutter",
+      "speed": 90,
+      "control": 66,
+      "movement": 99
+    },
+    {
+      "name": "Circle Change",
+      "speed": 88,
+      "control": 50,
+      "movement": 53
+    },
+    {
+      "name": "Sinker",
+      "speed": 95,
+      "control": 77,
+      "movement": 48
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 72,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

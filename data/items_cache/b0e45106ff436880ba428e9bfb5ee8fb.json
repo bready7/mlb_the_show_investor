@@ -1,0 +1,123 @@
+{
+  "uuid": "b0e45106ff436880ba428e9bfb5ee8fb",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTE9HdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--adf60ecbff0c2ccc2b96cf0ea595ef40b1afbea8/5dfe167746558878b20d2e50f159a206.png",
+  "baked_img": "https://cards.theshow.com/mlb25/b0e45106ff436880ba428e9bfb5ee8fb-baked.webp",
+  "sc_baked_img": null,
+  "name": "Joe Musgrove",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 74,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "44",
+  "age": 32,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "230 lbs",
+  "height": "6'5\"",
+  "born": "California",
+  "is_hitter": false,
+  "stamina": 77,
+  "pitching_clutch": 69,
+  "hits_per_bf": 58,
+  "k_per_bf": 55,
+  "bb_per_bf": 76,
+  "hr_per_bf": 64,
+  "pitch_velocity": 68,
+  "pitch_control": 69,
+  "pitch_movement": 97,
+  "contact_left": 13,
+  "contact_right": 10,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 20,
+  "plate_discipline": 20,
+  "batting_clutch": 10,
+  "bunting_ability": 99,
+  "drag_bunting_ability": 35,
+  "hitting_durability": 0,
+  "fielding_durability": 72,
+  "fielding_ability": 64,
+  "arm_strength": 72,
+  "arm_accuracy": 59,
+  "reaction_time": 19,
+  "blocking": 0,
+  "speed": 19,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 93,
+      "control": 55,
+      "movement": 59
+    },
+    {
+      "name": "Curveball",
+      "speed": 82,
+      "control": 78,
+      "movement": 97
+    },
+    {
+      "name": "Cutter",
+      "speed": 90,
+      "control": 77,
+      "movement": 65
+    },
+    {
+      "name": "Sweeper",
+      "speed": 82,
+      "control": 76,
+      "movement": 95
+    },
+    {
+      "name": "Circle Change",
+      "speed": 87,
+      "control": 60,
+      "movement": 79
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 74,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

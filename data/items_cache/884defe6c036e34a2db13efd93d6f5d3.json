@@ -1,0 +1,113 @@
+{
+  "uuid": "884defe6c036e34a2db13efd93d6f5d3",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSFdHdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b52a9dd7c68498be23ea352e5e67dfb772c0a64/e6d2ceaac4198506e6336f22144d4cfc.png",
+  "baked_img": "https://cards.theshow.com/mlb25/884defe6c036e34a2db13efd93d6f5d3-baked.webp",
+  "sc_baked_img": null,
+  "name": "Jordan Montgomery",
+  "short_description": null,
+  "rarity": "Common",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 64,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "52",
+  "age": 32,
+  "bat_hand": "L",
+  "throw_hand": "L",
+  "weight": "228 lbs",
+  "height": "6'6\"",
+  "born": "South Carolina",
+  "is_hitter": false,
+  "stamina": 79,
+  "pitching_clutch": 49,
+  "hits_per_bf": 55,
+  "k_per_bf": 48,
+  "bb_per_bf": 71,
+  "hr_per_bf": 70,
+  "pitch_velocity": 78,
+  "pitch_control": 52,
+  "pitch_movement": 68,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 0,
+  "plate_discipline": 9,
+  "batting_clutch": 0,
+  "bunting_ability": 62,
+  "drag_bunting_ability": 2,
+  "hitting_durability": 0,
+  "fielding_durability": 82,
+  "fielding_ability": 49,
+  "arm_strength": 56,
+  "arm_accuracy": 54,
+  "reaction_time": 40,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 7,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Sinker",
+      "speed": 92,
+      "control": 34,
+      "movement": 68
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 79,
+      "control": 55,
+      "movement": 44
+    },
+    {
+      "name": "Circle Change",
+      "speed": 83,
+      "control": 39,
+      "movement": 46
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 92,
+      "control": 66,
+      "movement": 62
+    },
+    {
+      "name": "Slider",
+      "speed": 84,
+      "control": 66,
+      "movement": 56
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 64,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

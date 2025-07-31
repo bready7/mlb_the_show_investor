@@ -1,0 +1,113 @@
+{
+  "uuid": "ddc5d0f7cf25f1e72a8f251da82fdebb",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQU5wdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e241c7ae7214649a5eb511280545e3fef0287e13/645f56f8c6f48831e34ef12bffd0311a.png",
+  "baked_img": "https://cards.theshow.com/mlb25/ddc5d0f7cf25f1e72a8f251da82fdebb-baked.webp",
+  "sc_baked_img": null,
+  "name": "Yu Darvish",
+  "short_description": null,
+  "rarity": "Gold",
+  "team": "Padres",
+  "team_short_name": "SD",
+  "ovr": 80,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "11",
+  "age": 38,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "220 lbs",
+  "height": "6'5\"",
+  "born": "Japan",
+  "is_hitter": false,
+  "stamina": 80,
+  "pitching_clutch": 84,
+  "hits_per_bf": 74,
+  "k_per_bf": 60,
+  "bb_per_bf": 70,
+  "hr_per_bf": 60,
+  "pitch_velocity": 90,
+  "pitch_control": 73,
+  "pitch_movement": 79,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 15,
+  "power_right": 12,
+  "plate_vision": 3,
+  "plate_discipline": 16,
+  "batting_clutch": 0,
+  "bunting_ability": 70,
+  "drag_bunting_ability": 25,
+  "hitting_durability": 0,
+  "fielding_durability": 38,
+  "fielding_ability": 56,
+  "arm_strength": 79,
+  "arm_accuracy": 48,
+  "reaction_time": 44,
+  "blocking": 0,
+  "speed": 4,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Slider",
+      "speed": 86,
+      "control": 75,
+      "movement": 71
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 94,
+      "control": 74,
+      "movement": 70
+    },
+    {
+      "name": "Sinker",
+      "speed": 94,
+      "control": 74,
+      "movement": 63
+    },
+    {
+      "name": "Sweeper",
+      "speed": 82,
+      "control": 71,
+      "movement": 78
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 76,
+      "control": 74,
+      "movement": 79
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 80,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

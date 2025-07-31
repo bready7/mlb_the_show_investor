@@ -1,0 +1,112 @@
+{
+  "uuid": "b6518b7da38fe94be1a3642a6e0dedfa",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTUpvdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--128e68b8fb425c6d9cefb54811c0f1946d0a8b6d/9bdca05559b75534054d0b32d5fab4c8.png",
+  "baked_img": "https://cards.theshow.com/mlb25/b6518b7da38fe94be1a3642a6e0dedfa-baked.webp",
+  "sc_baked_img": null,
+  "name": "Joe Mantiply",
+  "short_description": null,
+  "rarity": "Common",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 62,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "35",
+  "age": 34,
+  "bat_hand": "R",
+  "throw_hand": "L",
+  "weight": "219 lbs",
+  "height": "6'4\"",
+  "born": "Virginia",
+  "is_hitter": false,
+  "stamina": 24,
+  "pitching_clutch": 32,
+  "hits_per_bf": 58,
+  "k_per_bf": 47,
+  "bb_per_bf": 79,
+  "hr_per_bf": 61,
+  "pitch_velocity": 59,
+  "pitch_control": 72,
+  "pitch_movement": 99,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 2,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 22,
+  "drag_bunting_ability": 8,
+  "hitting_durability": 0,
+  "fielding_durability": 85,
+  "fielding_ability": 38,
+  "arm_strength": 48,
+  "arm_accuracy": 46,
+  "reaction_time": 37,
+  "blocking": 0,
+  "speed": 30,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 2,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Sinker",
+      "speed": 89,
+      "control": 98,
+      "movement": 99
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 79,
+      "control": 64,
+      "movement": 60
+    },
+    {
+      "name": "Circle Change",
+      "speed": 81,
+      "control": 64,
+      "movement": 99
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 89,
+      "control": 65,
+      "movement": 94
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Night Player",
+      "description": "Performs better when playing night games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f9bdfe4398663d5983c5ed896970ad86ade5539/GPerk_NightPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 62,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "uuid": "a86c9a80fce82777f5a2cb10492d1687",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3hxdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8c29fce056dd62e5814c99647dcc7616d7fd29d9/c126dc7e4265eb724bb6b5d9f627f8ec.png",
+  "baked_img": "https://cards.theshow.com/mlb25/a86c9a80fce82777f5a2cb10492d1687-baked.webp",
+  "sc_baked_img": null,
+  "name": "Shota Imanaga",
+  "short_description": null,
+  "rarity": "Gold",
+  "team": "Cubs",
+  "team_short_name": "CHC",
+  "ovr": 80,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "18",
+  "age": 31,
+  "bat_hand": "L",
+  "throw_hand": "L",
+  "weight": "175 lbs",
+  "height": "5'10\"",
+  "born": "Japan",
+  "is_hitter": false,
+  "stamina": 83,
+  "pitching_clutch": 96,
+  "hits_per_bf": 77,
+  "k_per_bf": 55,
+  "bb_per_bf": 80,
+  "hr_per_bf": 53,
+  "pitch_velocity": 61,
+  "pitch_control": 74,
+  "pitch_movement": 96,
+  "contact_left": 4,
+  "contact_right": 8,
+  "power_left": 3,
+  "power_right": 6,
+  "plate_vision": 7,
+  "plate_discipline": 5,
+  "batting_clutch": 7,
+  "bunting_ability": 33,
+  "drag_bunting_ability": 5,
+  "hitting_durability": 0,
+  "fielding_durability": 80,
+  "fielding_ability": 59,
+  "arm_strength": 66,
+  "arm_accuracy": 64,
+  "reaction_time": 67,
+  "blocking": 0,
+  "speed": 36,
+  "baserunning_ability": 7,
+  "baserunning_aggression": 8,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 92,
+      "control": 90,
+      "movement": 96
+    },
+    {
+      "name": "Splitter",
+      "speed": 83,
+      "control": 86,
+      "movement": 67
+    },
+    {
+      "name": "Sweeper",
+      "speed": 82,
+      "control": 65,
+      "movement": 58
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 73,
+      "control": 64,
+      "movement": 65
+    },
+    {
+      "name": "Sinker",
+      "speed": 89,
+      "control": 66,
+      "movement": 64
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 80,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

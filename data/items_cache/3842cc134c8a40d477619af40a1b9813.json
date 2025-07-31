@@ -1,0 +1,117 @@
+{
+  "uuid": "3842cc134c8a40d477619af40a1b9813",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSHRydWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e73558213f3841b4b0730458612d71a63aba2de5/b4d0648512e6efc092a5e67f8c5c5c5a.png",
+  "baked_img": "https://cards.theshow.com/mlb25/3842cc134c8a40d477619af40a1b9813-baked.webp",
+  "sc_baked_img": null,
+  "name": "Reynaldo L\u00f3pez",
+  "short_description": null,
+  "rarity": "Gold",
+  "team": "Braves",
+  "team_short_name": "ATL",
+  "ovr": 80,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "40",
+  "age": 31,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "225 lbs",
+  "height": "6'1\"",
+  "born": "Dominican Republic",
+  "is_hitter": false,
+  "stamina": 76,
+  "pitching_clutch": 115,
+  "hits_per_bf": 82,
+  "k_per_bf": 67,
+  "bb_per_bf": 56,
+  "hr_per_bf": 73,
+  "pitch_velocity": 81,
+  "pitch_control": 84,
+  "pitch_movement": 82,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 1,
+  "plate_discipline": 1,
+  "batting_clutch": 0,
+  "bunting_ability": 62,
+  "drag_bunting_ability": 2,
+  "hitting_durability": 0,
+  "fielding_durability": 76,
+  "fielding_ability": 47,
+  "arm_strength": 72,
+  "arm_accuracy": 48,
+  "reaction_time": 40,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 2,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 96,
+      "control": 99,
+      "movement": 72
+    },
+    {
+      "name": "Slider",
+      "speed": 85,
+      "control": 93,
+      "movement": 82
+    },
+    {
+      "name": "Curveball",
+      "speed": 77,
+      "control": 82,
+      "movement": 45
+    },
+    {
+      "name": "Circle Change",
+      "speed": 86,
+      "control": 62,
+      "movement": 49
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Stopper",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3psMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--027c493a6032389638e2cab0b6ab3bfb311a9865/GPerk_Stopper.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 80,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

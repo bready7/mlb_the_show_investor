@@ -1,0 +1,118 @@
+{
+  "uuid": "827211f592276ddf0f47508c3dcb27a5",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUGY3enl3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d203e72affcd42e309ec2aafe365ae42fc777ff8/353c454f1e905c7678d65c0e3e2aa792.png",
+  "baked_img": "https://cards.theshow.com/mlb25/827211f592276ddf0f47508c3dcb27a5-baked.webp",
+  "sc_baked_img": null,
+  "name": "Jos\u00e9 Suarez",
+  "short_description": null,
+  "rarity": "Common",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 56,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "54",
+  "age": 27,
+  "bat_hand": "L",
+  "throw_hand": "L",
+  "weight": "225 lbs",
+  "height": "5'10\"",
+  "born": "Venezuela",
+  "is_hitter": false,
+  "stamina": 45,
+  "pitching_clutch": 62,
+  "hits_per_bf": 44,
+  "k_per_bf": 55,
+  "bb_per_bf": 41,
+  "hr_per_bf": 47,
+  "pitch_velocity": 78,
+  "pitch_control": 57,
+  "pitch_movement": 86,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 0,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 40,
+  "drag_bunting_ability": 18,
+  "hitting_durability": 0,
+  "fielding_durability": 82,
+  "fielding_ability": 37,
+  "arm_strength": 55,
+  "arm_accuracy": 45,
+  "reaction_time": 40,
+  "blocking": 0,
+  "speed": 27,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 93,
+      "control": 56,
+      "movement": 86
+    },
+    {
+      "name": "Circle Change",
+      "speed": 83,
+      "control": 50,
+      "movement": 72
+    },
+    {
+      "name": "Sweeper",
+      "speed": 79,
+      "control": 73,
+      "movement": 65
+    },
+    {
+      "name": "Slider",
+      "speed": 85,
+      "control": 66,
+      "movement": 58
+    },
+    {
+      "name": "Sinker",
+      "speed": 92,
+      "control": 41,
+      "movement": 64
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 56,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "uuid": "2613eb51b0ce09c12b6cac14c51dc38c",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTFFadUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d45e7c10c4940452f55c418bf9c7b48120c9c61/9f6768a5a72256072a40e5d52cb10bf9.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/2613eb51b0ce09c12b6cac14c51dc38c-baked.webp",
+  "sc_baked_img": null,
+  "name": "Logan Gilbert",
+  "short_description": null,
+  "rarity": "Diamond",
+  "team": "Mariners",
+  "team_short_name": "SEA",
+  "ovr": 87,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "36",
+  "age": 27,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "215 lbs",
+  "height": "6'6\"",
+  "born": "Florida",
+  "is_hitter": false,
+  "stamina": 82,
+  "pitching_clutch": 61,
+  "hits_per_bf": 86,
+  "k_per_bf": 79,
+  "bb_per_bf": 82,
+  "hr_per_bf": 59,
+  "pitch_velocity": 86,
+  "pitch_control": 78,
+  "pitch_movement": 98,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 2,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 30,
+  "drag_bunting_ability": 0,
+  "hitting_durability": 0,
+  "fielding_durability": 75,
+  "fielding_ability": 45,
+  "arm_strength": 70,
+  "arm_accuracy": 55,
+  "reaction_time": 34,
+  "blocking": 0,
+  "speed": 40,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Slider",
+      "speed": 88,
+      "control": 92,
+      "movement": 68
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 97,
+      "control": 84,
+      "movement": 70
+    },
+    {
+      "name": "Splitter",
+      "speed": 85,
+      "control": 77,
+      "movement": 68
+    },
+    {
+      "name": "Curveball",
+      "speed": 83,
+      "control": 81,
+      "movement": 98
+    },
+    {
+      "name": "Cutter",
+      "speed": 92,
+      "control": 60,
+      "movement": 81
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Homebody",
+      "description": "Performs better when playing at home",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5e6beac901e9b4891ceb7d9d53f25ac11157bd2/GPerk_Homebody.webp"
+    },
+    {
+      "name": "Stopper",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3psMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--027c493a6032389638e2cab0b6ab3bfb311a9865/GPerk_Stopper.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 87,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 1,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

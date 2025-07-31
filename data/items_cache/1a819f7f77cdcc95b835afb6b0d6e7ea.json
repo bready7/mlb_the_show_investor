@@ -1,0 +1,113 @@
+{
+  "uuid": "1a819f7f77cdcc95b835afb6b0d6e7ea",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSTFUdUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02365531ea5e67952506b7d002594a5ada43d509/08cca13904b40844c274ea120c9bdd38.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/1a819f7f77cdcc95b835afb6b0d6e7ea-baked.webp",
+  "sc_baked_img": null,
+  "name": "Carson Fulmer",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Angels",
+  "team_short_name": "LAA",
+  "ovr": 69,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "49",
+  "age": 31,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "210 lbs",
+  "height": "6'0\"",
+  "born": "Florida",
+  "is_hitter": false,
+  "stamina": 60,
+  "pitching_clutch": 78,
+  "hits_per_bf": 78,
+  "k_per_bf": 60,
+  "bb_per_bf": 47,
+  "hr_per_bf": 65,
+  "pitch_velocity": 83,
+  "pitch_control": 64,
+  "pitch_movement": 78,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 0,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 63,
+  "drag_bunting_ability": 0,
+  "hitting_durability": 0,
+  "fielding_durability": 78,
+  "fielding_ability": 51,
+  "arm_strength": 70,
+  "arm_accuracy": 56,
+  "reaction_time": 60,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 7,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Circle Change",
+      "speed": 88,
+      "control": 68,
+      "movement": 78
+    },
+    {
+      "name": "Sinker",
+      "speed": 93,
+      "control": 70,
+      "movement": 64
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 93,
+      "control": 65,
+      "movement": 68
+    },
+    {
+      "name": "Slider",
+      "speed": 88,
+      "control": 75,
+      "movement": 68
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 82,
+      "control": 46,
+      "movement": 49
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 69,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "uuid": "28f7edc69322aca608a8bd9046ffdc0b",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRldIdUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd5a87a0fc14a4e918daf11ac148c6b1d48c0085/55f9b6ce640eea6af7bbbed99f4ee912.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/28f7edc69322aca608a8bd9046ffdc0b-baked.webp",
+  "sc_baked_img": null,
+  "name": "David Robertson",
+  "short_description": null,
+  "rarity": "Silver",
+  "team": "Phillies",
+  "team_short_name": "PHI",
+  "ovr": 76,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "CP",
+  "display_secondary_positions": "",
+  "jersey_number": "37",
+  "age": 39,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "195 lbs",
+  "height": "5'11\"",
+  "born": "Alabama",
+  "is_hitter": false,
+  "stamina": 26,
+  "pitching_clutch": 67,
+  "hits_per_bf": 84,
+  "k_per_bf": 79,
+  "bb_per_bf": 57,
+  "hr_per_bf": 73,
+  "pitch_velocity": 97,
+  "pitch_control": 74,
+  "pitch_movement": 99,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 0,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 64,
+  "drag_bunting_ability": 0,
+  "hitting_durability": 0,
+  "fielding_durability": 72,
+  "fielding_ability": 28,
+  "arm_strength": 73,
+  "arm_accuracy": 41,
+  "reaction_time": 38,
+  "blocking": 0,
+  "speed": 5,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Cutter",
+      "speed": 93,
+      "control": 99,
+      "movement": 99
+    },
+    {
+      "name": "Knuckle-curve",
+      "speed": 84,
+      "control": 61,
+      "movement": 78
+    },
+    {
+      "name": "Slider",
+      "speed": 84,
+      "control": 54,
+      "movement": 96
+    },
+    {
+      "name": "Circle Change",
+      "speed": 88,
+      "control": 78,
+      "movement": 66
+    },
+    {
+      "name": "Sinker",
+      "speed": 95,
+      "control": 79,
+      "movement": 65
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Homebody",
+      "description": "Performs better when playing at home",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5e6beac901e9b4891ceb7d9d53f25ac11157bd2/GPerk_Homebody.webp"
+    },
+    {
+      "name": "Stopper",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3psMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--027c493a6032389638e2cab0b6ab3bfb311a9865/GPerk_Stopper.webp"
+    },
+    {
+      "name": "Night Player",
+      "description": "Performs better when playing night games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f9bdfe4398663d5983c5ed896970ad86ade5539/GPerk_NightPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 76,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

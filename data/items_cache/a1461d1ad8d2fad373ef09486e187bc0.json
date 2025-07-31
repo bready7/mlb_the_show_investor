@@ -1,0 +1,122 @@
+{
+  "uuid": "a1461d1ad8d2fad373ef09486e187bc0",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTXdadUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--36770fffdcd9ebee93914023c5837679c2f6506f/ebad1cde622e68ede783a0d1ea4f6256.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/a1461d1ad8d2fad373ef09486e187bc0-baked.webp",
+  "sc_baked_img": null,
+  "name": "Tyler Glasnow",
+  "short_description": null,
+  "rarity": "Diamond",
+  "team": "Dodgers",
+  "team_short_name": "LAD",
+  "ovr": 85,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "31",
+  "age": 31,
+  "bat_hand": "L",
+  "throw_hand": "R",
+  "weight": "225 lbs",
+  "height": "6'8\"",
+  "born": "California",
+  "is_hitter": false,
+  "stamina": 80,
+  "pitching_clutch": 80,
+  "hits_per_bf": 90,
+  "k_per_bf": 78,
+  "bb_per_bf": 59,
+  "hr_per_bf": 67,
+  "pitch_velocity": 97,
+  "pitch_control": 74,
+  "pitch_movement": 90,
+  "contact_left": 7,
+  "contact_right": 15,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 4,
+  "plate_discipline": 34,
+  "batting_clutch": 7,
+  "bunting_ability": 59,
+  "drag_bunting_ability": 14,
+  "hitting_durability": 0,
+  "fielding_durability": 82,
+  "fielding_ability": 46,
+  "arm_strength": 68,
+  "arm_accuracy": 46,
+  "reaction_time": 38,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 96,
+      "control": 76,
+      "movement": 69
+    },
+    {
+      "name": "Slider",
+      "speed": 90,
+      "control": 74,
+      "movement": 80
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 84,
+      "control": 83,
+      "movement": 90
+    },
+    {
+      "name": "2-Seam Fastball",
+      "speed": 97,
+      "control": 65,
+      "movement": 48
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Homebody",
+      "description": "Performs better when playing at home",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5e6beac901e9b4891ceb7d9d53f25ac11157bd2/GPerk_Homebody.webp"
+    },
+    {
+      "name": "Stopper",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3psMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--027c493a6032389638e2cab0b6ab3bfb311a9865/GPerk_Stopper.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 85,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 1,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

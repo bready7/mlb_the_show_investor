@@ -1,0 +1,120 @@
+{
+  "uuid": "09d5b6331e6c3b4eb414a5d04200235c",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ1o1dWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--346d7d758569d7624407e951777a63965f4bd2f6/338f196faa336f73e8bbc70510eaa331.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/09d5b6331e6c3b4eb414a5d04200235c-baked.webp",
+  "sc_baked_img": null,
+  "name": "Tyler Glasnow",
+  "short_description": null,
+  "rarity": "Silver",
+  "team": "Pirates",
+  "team_short_name": "PIT",
+  "ovr": 79,
+  "series": "Topps Now",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "24",
+  "age": 23,
+  "bat_hand": "L",
+  "throw_hand": "R",
+  "weight": "225 lbs",
+  "height": "6'8\"",
+  "born": "California",
+  "is_hitter": false,
+  "stamina": 74,
+  "pitching_clutch": 65,
+  "hits_per_bf": 67,
+  "k_per_bf": 89,
+  "bb_per_bf": 53,
+  "hr_per_bf": 65,
+  "pitch_velocity": 87,
+  "pitch_control": 76,
+  "pitch_movement": 81,
+  "contact_left": 7,
+  "contact_right": 15,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 4,
+  "plate_discipline": 34,
+  "batting_clutch": 7,
+  "bunting_ability": 59,
+  "drag_bunting_ability": 14,
+  "hitting_durability": 0,
+  "fielding_durability": 82,
+  "fielding_ability": 46,
+  "arm_strength": 68,
+  "arm_accuracy": 46,
+  "reaction_time": 38,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 95,
+      "control": 77,
+      "movement": 76
+    },
+    {
+      "name": "Sinker",
+      "speed": 93,
+      "control": 69,
+      "movement": 51
+    },
+    {
+      "name": "12-6 Curve",
+      "speed": 79,
+      "control": 94,
+      "movement": 81
+    },
+    {
+      "name": "Circle Change",
+      "speed": 87,
+      "control": 64,
+      "movement": 44
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Homebody",
+      "description": "Performs better when playing at home",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5e6beac901e9b4891ceb7d9d53f25ac11157bd2/GPerk_Homebody.webp"
+    },
+    {
+      "name": "Stopper",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3psMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--027c493a6032389638e2cab0b6ab3bfb311a9865/GPerk_Stopper.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": false,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 79,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "PROGRAM (Team Affinity)"
+  ]
+}

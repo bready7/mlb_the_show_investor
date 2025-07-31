@@ -1,0 +1,113 @@
+{
+  "uuid": "c883697e8ca2ec060c5af75c84033a59",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXIxWVRFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1387c1e816db8b191b80a480335f154533743cdf/f5f4116cd423e51ae045baf4110a9fbe.png",
+  "baked_img": "https://cards.theshow.com/mlb25/c883697e8ca2ec060c5af75c84033a59-baked.webp",
+  "sc_baked_img": null,
+  "name": "Adrian Houser",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "White Sox",
+  "team_short_name": "CWS",
+  "ovr": 65,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "57",
+  "age": 32,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "242 lbs",
+  "height": "6'3\"",
+  "born": "Oklahoma",
+  "is_hitter": false,
+  "stamina": 61,
+  "pitching_clutch": 36,
+  "hits_per_bf": 54,
+  "k_per_bf": 46,
+  "bb_per_bf": 62,
+  "hr_per_bf": 67,
+  "pitch_velocity": 83,
+  "pitch_control": 53,
+  "pitch_movement": 90,
+  "contact_left": 2,
+  "contact_right": 0,
+  "power_left": 26,
+  "power_right": 10,
+  "plate_vision": 0,
+  "plate_discipline": 25,
+  "batting_clutch": 0,
+  "bunting_ability": 72,
+  "drag_bunting_ability": 10,
+  "hitting_durability": 0,
+  "fielding_durability": 67,
+  "fielding_ability": 42,
+  "arm_strength": 66,
+  "arm_accuracy": 43,
+  "reaction_time": 38,
+  "blocking": 0,
+  "speed": 30,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 7,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Sinker",
+      "speed": 93,
+      "control": 62,
+      "movement": 90
+    },
+    {
+      "name": "Slider",
+      "speed": 83,
+      "control": 58,
+      "movement": 66
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 93,
+      "control": 65,
+      "movement": 84
+    },
+    {
+      "name": "Circle Change",
+      "speed": 84,
+      "control": 44,
+      "movement": 72
+    },
+    {
+      "name": "Curveball",
+      "speed": 80,
+      "control": 39,
+      "movement": 79
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 65,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

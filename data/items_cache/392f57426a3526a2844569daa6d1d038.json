@@ -1,0 +1,118 @@
+{
+  "uuid": "392f57426a3526a2844569daa6d1d038",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTDlvdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--85cb961209ee69157d3dd0725bc27d969717ebf1/93869046fcb46358277038952282bee7.png",
+  "baked_img": "https://cards.theshow.com/mlb25/392f57426a3526a2844569daa6d1d038-baked.webp",
+  "sc_baked_img": null,
+  "name": "Sean Manaea",
+  "short_description": null,
+  "rarity": "Silver",
+  "team": "Mets",
+  "team_short_name": "NYM",
+  "ovr": 77,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "59",
+  "age": 33,
+  "bat_hand": "R",
+  "throw_hand": "L",
+  "weight": "245 lbs",
+  "height": "6'5\"",
+  "born": "Indiana",
+  "is_hitter": false,
+  "stamina": 66,
+  "pitching_clutch": 65,
+  "hits_per_bf": 80,
+  "k_per_bf": 64,
+  "bb_per_bf": 61,
+  "hr_per_bf": 65,
+  "pitch_velocity": 81,
+  "pitch_control": 68,
+  "pitch_movement": 99,
+  "contact_left": 4,
+  "contact_right": 9,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 7,
+  "plate_discipline": 5,
+  "batting_clutch": 4,
+  "bunting_ability": 65,
+  "drag_bunting_ability": 4,
+  "hitting_durability": 0,
+  "fielding_durability": 75,
+  "fielding_ability": 50,
+  "arm_strength": 59,
+  "arm_accuracy": 48,
+  "reaction_time": 48,
+  "blocking": 0,
+  "speed": 22,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 7,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Sinker",
+      "speed": 92,
+      "control": 78,
+      "movement": 73
+    },
+    {
+      "name": "Sweeper",
+      "speed": 78,
+      "control": 60,
+      "movement": 70
+    },
+    {
+      "name": "Circle Change",
+      "speed": 85,
+      "control": 59,
+      "movement": 74
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 92,
+      "control": 76,
+      "movement": 99
+    },
+    {
+      "name": "Cutter",
+      "speed": 88,
+      "control": 70,
+      "movement": 61
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Rally Monkey",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1BsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7cf3bdab5fb36de0ce1438e01649a9b52b89d22d/GPerk_RallyMonkey.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 77,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "uuid": "c9a543dad6d3b323f49b5afdc9b2d9ae",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRUFYdUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1bde8b7dc50b203815bb1bfc93417e455ca01462/d943a4365c3aa19adb57fc04c1ab4de0.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/c9a543dad6d3b323f49b5afdc9b2d9ae-baked.webp",
+  "sc_baked_img": null,
+  "name": "Gerrit Cole",
+  "short_description": null,
+  "rarity": "Diamond",
+  "team": "Yankees",
+  "team_short_name": "NYY",
+  "ovr": 85,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "45",
+  "age": 34,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "220 lbs",
+  "height": "6'4\"",
+  "born": "California",
+  "is_hitter": false,
+  "stamina": 91,
+  "pitching_clutch": 90,
+  "hits_per_bf": 84,
+  "k_per_bf": 65,
+  "bb_per_bf": 75,
+  "hr_per_bf": 69,
+  "pitch_velocity": 83,
+  "pitch_control": 65,
+  "pitch_movement": 99,
+  "contact_left": 22,
+  "contact_right": 22,
+  "power_left": 29,
+  "power_right": 29,
+  "plate_vision": 15,
+  "plate_discipline": 22,
+  "batting_clutch": 22,
+  "bunting_ability": 99,
+  "drag_bunting_ability": 25,
+  "hitting_durability": 0,
+  "fielding_durability": 62,
+  "fielding_ability": 29,
+  "arm_strength": 59,
+  "arm_accuracy": 48,
+  "reaction_time": 40,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 96,
+      "control": 80,
+      "movement": 85
+    },
+    {
+      "name": "Knuckle-curve",
+      "speed": 82,
+      "control": 74,
+      "movement": 99
+    },
+    {
+      "name": "Cutter",
+      "speed": 91,
+      "control": 56,
+      "movement": 78
+    },
+    {
+      "name": "Slider",
+      "speed": 88,
+      "control": 67,
+      "movement": 76
+    },
+    {
+      "name": "Circle Change",
+      "speed": 88,
+      "control": 52,
+      "movement": 48
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 85,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 1,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

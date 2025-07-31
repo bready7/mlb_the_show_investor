@@ -1,0 +1,123 @@
+{
+  "uuid": "21725010d8a7631220fee2008aac8ac3",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSWVNdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--685dfeef35901866b8ffff1c805e39077e8d7473/91ca3ab10d8869b64aa82c300c9bc5f1.png",
+  "baked_img": "https://cards.theshow.com/mlb25/21725010d8a7631220fee2008aac8ac3-baked.webp",
+  "sc_baked_img": null,
+  "name": "Justin Steele",
+  "short_description": null,
+  "rarity": "Gold",
+  "team": "Cubs",
+  "team_short_name": "CHC",
+  "ovr": 80,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "35",
+  "age": 29,
+  "bat_hand": "L",
+  "throw_hand": "L",
+  "weight": "205 lbs",
+  "height": "6'2\"",
+  "born": "Mississippi",
+  "is_hitter": false,
+  "stamina": 83,
+  "pitching_clutch": 64,
+  "hits_per_bf": 72,
+  "k_per_bf": 60,
+  "bb_per_bf": 79,
+  "hr_per_bf": 75,
+  "pitch_velocity": 77,
+  "pitch_control": 72,
+  "pitch_movement": 99,
+  "contact_left": 1,
+  "contact_right": 3,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 8,
+  "plate_discipline": 2,
+  "batting_clutch": 1,
+  "bunting_ability": 38,
+  "drag_bunting_ability": 8,
+  "hitting_durability": 0,
+  "fielding_durability": 81,
+  "fielding_ability": 52,
+  "arm_strength": 48,
+  "arm_accuracy": 38,
+  "reaction_time": 48,
+  "blocking": 0,
+  "speed": 35,
+  "baserunning_ability": 18,
+  "baserunning_aggression": 8,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 92,
+      "control": 82,
+      "movement": 46
+    },
+    {
+      "name": "Slider",
+      "speed": 83,
+      "control": 78,
+      "movement": 99
+    },
+    {
+      "name": "Sinker",
+      "speed": 92,
+      "control": 72,
+      "movement": 60
+    },
+    {
+      "name": "Circle Change",
+      "speed": 86,
+      "control": 64,
+      "movement": 56
+    },
+    {
+      "name": "Curveball",
+      "speed": 80,
+      "control": 66,
+      "movement": 70
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Stopper",
+      "description": "Performs better when team is behind",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS3psMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--027c493a6032389638e2cab0b6ab3bfb311a9865/GPerk_Stopper.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 80,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

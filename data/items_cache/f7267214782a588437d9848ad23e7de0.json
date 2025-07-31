@@ -1,0 +1,123 @@
+{
+  "uuid": "f7267214782a588437d9848ad23e7de0",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmVOdWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02ac5ddda0b4e5e2740282aaaf924301fc33116a/1e0ec86521c5a172233fbb8521d348fe.png",
+  "baked_img": "https://cards.theshow.com/mlb25/f7267214782a588437d9848ad23e7de0-baked.webp",
+  "sc_baked_img": null,
+  "name": "Yoshinobu Yamamoto",
+  "short_description": null,
+  "rarity": "Gold",
+  "team": "Dodgers",
+  "team_short_name": "LAD",
+  "ovr": 83,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "18",
+  "age": 26,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "176 lbs",
+  "height": "5'10\"",
+  "born": "Japan",
+  "is_hitter": false,
+  "stamina": 80,
+  "pitching_clutch": 94,
+  "hits_per_bf": 85,
+  "k_per_bf": 71,
+  "bb_per_bf": 62,
+  "hr_per_bf": 70,
+  "pitch_velocity": 81,
+  "pitch_control": 71,
+  "pitch_movement": 99,
+  "contact_left": 7,
+  "contact_right": 4,
+  "power_left": 6,
+  "power_right": 2,
+  "plate_vision": 5,
+  "plate_discipline": 4,
+  "batting_clutch": 6,
+  "bunting_ability": 33,
+  "drag_bunting_ability": 7,
+  "hitting_durability": 0,
+  "fielding_durability": 82,
+  "fielding_ability": 64,
+  "arm_strength": 55,
+  "arm_accuracy": 56,
+  "reaction_time": 63,
+  "blocking": 0,
+  "speed": 38,
+  "baserunning_ability": 3,
+  "baserunning_aggression": 2,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 96,
+      "control": 75,
+      "movement": 69
+    },
+    {
+      "name": "Splitter",
+      "speed": 90,
+      "control": 72,
+      "movement": 61
+    },
+    {
+      "name": "Curveball",
+      "speed": 78,
+      "control": 76,
+      "movement": 99
+    },
+    {
+      "name": "Cutter",
+      "speed": 91,
+      "control": 69,
+      "movement": 67
+    },
+    {
+      "name": "Slider",
+      "speed": 86,
+      "control": 66,
+      "movement": 78
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    },
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 83,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

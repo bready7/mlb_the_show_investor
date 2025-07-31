@@ -1,0 +1,118 @@
+{
+  "uuid": "b3482fa2cd8ff1be16d33b6446129b2b",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRDFydWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c776b15678180c988903a364ac7f2066847b95c3/bc6642431e27f4561d2f74a063d6c834.png",
+  "baked_img": "https://cards.theshow.com/mlb25/b3482fa2cd8ff1be16d33b6446129b2b-baked.webp",
+  "sc_baked_img": null,
+  "name": "Derek Law",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 68,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "58",
+  "age": 34,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "225 lbs",
+  "height": "6'3\"",
+  "born": "Pennsylvania",
+  "is_hitter": false,
+  "stamina": 27,
+  "pitching_clutch": 77,
+  "hits_per_bf": 70,
+  "k_per_bf": 51,
+  "bb_per_bf": 63,
+  "hr_per_bf": 74,
+  "pitch_velocity": 97,
+  "pitch_control": 72,
+  "pitch_movement": 73,
+  "contact_left": 9,
+  "contact_right": 4,
+  "power_left": 6,
+  "power_right": 2,
+  "plate_vision": 12,
+  "plate_discipline": 8,
+  "batting_clutch": 10,
+  "bunting_ability": 33,
+  "drag_bunting_ability": 8,
+  "hitting_durability": 0,
+  "fielding_durability": 72,
+  "fielding_ability": 42,
+  "arm_strength": 77,
+  "arm_accuracy": 48,
+  "reaction_time": 53,
+  "blocking": 0,
+  "speed": 30,
+  "baserunning_ability": 7,
+  "baserunning_aggression": 4,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Cutter",
+      "speed": 91,
+      "control": 65,
+      "movement": 66
+    },
+    {
+      "name": "Slider",
+      "speed": 87,
+      "control": 92,
+      "movement": 73
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 95,
+      "control": 60,
+      "movement": 65
+    },
+    {
+      "name": "Sinker",
+      "speed": 95,
+      "control": 56,
+      "movement": 53
+    },
+    {
+      "name": "Circle Change",
+      "speed": 88,
+      "control": 88,
+      "movement": 70
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Road Warrior",
+      "description": "Performs better when playing on the road",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCS1RsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b21bd4b8ffcedd2b730e67faf3032bcaef880bf9/GPerk_RoadWarrior.webp"
+    },
+    {
+      "name": "Night Player",
+      "description": "Performs better when playing night games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f9bdfe4398663d5983c5ed896970ad86ade5539/GPerk_NightPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 68,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

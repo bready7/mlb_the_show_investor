@@ -1,0 +1,112 @@
+{
+  "uuid": "5dcc93b6e975f8a8e68429cae4e45cc2",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUDJVdUNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c2ff08e9bc5ad04cc7ae155af10955c129db71c/554251f6ea72279673d37e148c6f2b78.webp",
+  "baked_img": "https://cards.theshow.com/mlb25/5dcc93b6e975f8a8e68429cae4e45cc2-baked.webp",
+  "sc_baked_img": null,
+  "name": "Blake Treinen",
+  "short_description": null,
+  "rarity": "Silver",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 79,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "49",
+  "age": 36,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "225 lbs",
+  "height": "6'5\"",
+  "born": "Kansas",
+  "is_hitter": false,
+  "stamina": 26,
+  "pitching_clutch": 117,
+  "hits_per_bf": 81,
+  "k_per_bf": 72,
+  "bb_per_bf": 69,
+  "hr_per_bf": 80,
+  "pitch_velocity": 96,
+  "pitch_control": 75,
+  "pitch_movement": 99,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 1,
+  "plate_discipline": 5,
+  "batting_clutch": 0,
+  "bunting_ability": 64,
+  "drag_bunting_ability": 0,
+  "hitting_durability": 0,
+  "fielding_durability": 89,
+  "fielding_ability": 36,
+  "arm_strength": 34,
+  "arm_accuracy": 47,
+  "reaction_time": 31,
+  "blocking": 0,
+  "speed": 25,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "Sweeper",
+      "speed": 84,
+      "control": 88,
+      "movement": 84
+    },
+    {
+      "name": "Sinker",
+      "speed": 95,
+      "control": 85,
+      "movement": 99
+    },
+    {
+      "name": "Cutter",
+      "speed": 91,
+      "control": 62,
+      "movement": 72
+    },
+    {
+      "name": "4-Seam Fastball",
+      "speed": 94,
+      "control": 65,
+      "movement": 70
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    },
+    {
+      "name": "Day Player",
+      "description": "Performs better when playing day games",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSXJsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dab371006b6bf547335965ac68bfab8cf404c7f/GPerk_DayPlayer.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 79,
+  "has_rank_change": false,
+  "event": false,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "uuid": "f42523df3fafe56f111474dc70679dcf",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQjVydWlrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3236cb09673c20cabd3935440de874b824f27057/60a441859018db41fcf3f9d0713261d2.png",
+  "baked_img": "https://cards.theshow.com/mlb25/f42523df3fafe56f111474dc70679dcf-baked.webp",
+  "sc_baked_img": null,
+  "name": "Landon Knack",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Dodgers",
+  "team_short_name": "LAD",
+  "ovr": 69,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "RP",
+  "display_secondary_positions": "",
+  "jersey_number": "96",
+  "age": 27,
+  "bat_hand": "L",
+  "throw_hand": "R",
+  "weight": "220 lbs",
+  "height": "6'2\"",
+  "born": "Tennessee",
+  "is_hitter": false,
+  "stamina": 65,
+  "pitching_clutch": 75,
+  "hits_per_bf": 70,
+  "k_per_bf": 54,
+  "bb_per_bf": 69,
+  "hr_per_bf": 42,
+  "pitch_velocity": 70,
+  "pitch_control": 61,
+  "pitch_movement": 97,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 0,
+  "plate_discipline": 0,
+  "batting_clutch": 0,
+  "bunting_ability": 35,
+  "drag_bunting_ability": 5,
+  "hitting_durability": 0,
+  "fielding_durability": 72,
+  "fielding_ability": 44,
+  "arm_strength": 67,
+  "arm_accuracy": 53,
+  "reaction_time": 37,
+  "blocking": 0,
+  "speed": 34,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 93,
+      "control": 73,
+      "movement": 97
+    },
+    {
+      "name": "Slider",
+      "speed": 85,
+      "control": 70,
+      "movement": 52
+    },
+    {
+      "name": "Curveball",
+      "speed": 80,
+      "control": 54,
+      "movement": 90
+    },
+    {
+      "name": "Circle Change",
+      "speed": 84,
+      "control": 58,
+      "movement": 44
+    },
+    {
+      "name": "Sweeper",
+      "speed": 85,
+      "control": 50,
+      "movement": 49
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Break Outlier",
+      "description": "Pitchers lose less break when tired",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVBsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1af2ad3b69798da2e779e0617295f9248d69f62/GPerk_BreakOutlier.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": false,
+  "stars": null,
+  "trend": null,
+  "new_rank": 69,
+  "has_rank_change": false,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

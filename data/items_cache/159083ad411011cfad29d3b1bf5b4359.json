@@ -1,0 +1,113 @@
+{
+  "uuid": "159083ad411011cfad29d3b1bf5b4359",
+  "type": "mlb_card",
+  "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmp3enl3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--034d71ff9a07b55c7ed2788cd1a61e5314535e0c/0d37ce7c34d37f3a0a2feae080fac519.png",
+  "baked_img": "https://cards.theshow.com/mlb25/159083ad411011cfad29d3b1bf5b4359-baked.webp",
+  "sc_baked_img": null,
+  "name": "Carlos Carrasco",
+  "short_description": null,
+  "rarity": "Bronze",
+  "team": "Free Agents",
+  "team_short_name": "FA",
+  "ovr": 65,
+  "series": "Live",
+  "series_texture_name": "",
+  "series_year": 2017,
+  "display_position": "SP",
+  "display_secondary_positions": "",
+  "jersey_number": "59",
+  "age": 37,
+  "bat_hand": "R",
+  "throw_hand": "R",
+  "weight": "224 lbs",
+  "height": "6'4\"",
+  "born": "Venezuela",
+  "is_hitter": false,
+  "stamina": 71,
+  "pitching_clutch": 25,
+  "hits_per_bf": 48,
+  "k_per_bf": 49,
+  "bb_per_bf": 66,
+  "hr_per_bf": 48,
+  "pitch_velocity": 73,
+  "pitch_control": 57,
+  "pitch_movement": 93,
+  "contact_left": 0,
+  "contact_right": 0,
+  "power_left": 0,
+  "power_right": 0,
+  "plate_vision": 0,
+  "plate_discipline": 6,
+  "batting_clutch": 0,
+  "bunting_ability": 60,
+  "drag_bunting_ability": 13,
+  "hitting_durability": 0,
+  "fielding_durability": 48,
+  "fielding_ability": 68,
+  "arm_strength": 46,
+  "arm_accuracy": 62,
+  "reaction_time": 48,
+  "blocking": 0,
+  "speed": 4,
+  "baserunning_ability": 0,
+  "baserunning_aggression": 0,
+  "hit_rank_image": "",
+  "fielding_rank_image": "",
+  "pitches": [
+    {
+      "name": "4-Seam Fastball",
+      "speed": 92,
+      "control": 51,
+      "movement": 40
+    },
+    {
+      "name": "Slider",
+      "speed": 84,
+      "control": 58,
+      "movement": 73
+    },
+    {
+      "name": "Circle Change",
+      "speed": 87,
+      "control": 54,
+      "movement": 89
+    },
+    {
+      "name": "Sinker",
+      "speed": 91,
+      "control": 52,
+      "movement": 93
+    },
+    {
+      "name": "Slurve",
+      "speed": 80,
+      "control": 73,
+      "movement": 87
+    }
+  ],
+  "quirks": [
+    {
+      "name": "Pick Off Artist",
+      "description": "Has an extremely effective pickoff move",
+      "img": "https://mlb25.theshow.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnZsMFNrPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc184e29d8389f2a3baec6086022d0b33cc9674c/GPerk_PickoffArtist.webp"
+    }
+  ],
+  "is_sellable": true,
+  "has_augment": false,
+  "augment_text": null,
+  "augment_end_date": null,
+  "has_matchup": true,
+  "stars": 4,
+  "trend": "1",
+  "new_rank": 70,
+  "has_rank_change": true,
+  "event": true,
+  "set_name": "CORE",
+  "is_live_set": true,
+  "ui_anim_index": 0,
+  "locations": [
+    "COMMUNITY MARKET",
+    "DAILY LOGIN REWARD",
+    "THE SHOW PACK"
+  ]
+}

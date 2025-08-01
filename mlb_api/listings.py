@@ -1,59 +1,46 @@
-import requests
 import json
-from pathlib import Path
 import os
+from difflib import get_close_matches
 
-API_URL = "https://mlb25.theshow.com/apis/listings.json"
-CACHE_PATH = Path(os.path.join(os.getcwd(), "data/listings_raw.json"))
+KNOWN_SAVANT_PLAYERS_FILE = "savant/known_savant_players.json"
+MATCHED_PLAYERS_FILE = "data/matched_players.json"
 
-def fetch_live_series_cards(page=1):
-    params = {
-        "type": "mlb_card",
-        "series_id": 1337,  # Live Series
-        "page": page,
-        "order": "desc",
-        "sort": "rank"
-    }
-    response = requests.get(API_URL, params=params)
-    response.raise_for_status()
-    return response.json()
+def load_known_savant_players():
+    with open(KNOWN_SAVANT_PLAYERS_FILE, "r") as f:
+        return json.load(f)
 
-def cache_listings(data):
-    CACHE_PATH.parent.mkdir(exist_ok=True)
-    print(f"Caching data to {CACHE_PATH} ...")
-    print(f"Number of cards cached: {len(data.get('listings', []))}")
-    with open(CACHE_PATH, "w") as f:
-        json.dump(data, f, indent=2)
+def save_matches(matches):
+    with open(MATCHED_PLAYERS_FILE, "w") as f:
+        json.dump(matches, f, indent=2)
 
-def load_cached_listings():
-    if CACHE_PATH.exists():
-        with open(CACHE_PATH) as f:
+def load_matches():
+    if os.path.exists(MATCHED_PLAYERS_FILE):
+        with open(MATCHED_PLAYERS_FILE, "r") as f:
             return json.load(f)
-    return None
+    return {}
 
-def fetch_all_live_series_cards():
-    all_listings = []
-    page = 1
+def get_matched_players(card_names):
+    """
+    Takes in a list of card names from MLB The Show and matches them
+    to Baseball Savant players using fuzzy name matching.
+    """
+    known_savant_players = load_known_savant_players()
+    cached_matches = load_matches()
 
-    while True:
-        print(f"Fetching page {page}...")
-        data = fetch_live_series_cards(page)
-        listings = data.get("listings", [])
-        all_listings.extend(listings)
+    updated = False
+    for card_name in card_names:
+        if card_name in cached_matches:
+            continue
 
-        total_pages = data.get("total_pages", 1)
-        if page >= total_pages:
-            break
-        page += 1
+        # Try fuzzy matching
+        match = get_close_matches(card_name, known_savant_players, n=1, cutoff=0.8)
+        if match:
+            cached_matches[card_name] = match[0]
+        else:
+            cached_matches[card_name] = None  # Unmatched for now
+        updated = True
 
-    return {
-        "page": 1,
-        "per_page": len(all_listings),
-        "total_pages": 1,
-        "listings": all_listings
-    }
+    if updated:
+        save_matches(cached_matches)
 
-if __name__ == "__main__":
-    data = fetch_all_live_series_cards()
-    cache_listings(data)
-    print(f"Fetched and cached a total of {len(data.get('listings', []))} cards.")
+    return cached_matches

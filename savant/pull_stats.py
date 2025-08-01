@@ -1,58 +1,49 @@
-import csv
-import time
 import requests
-from .matcher import get_matched_players
-from utils.cache import save_csv
+import csv
+import json
+import os
 
-SAVANT_URL = "https://baseballsavant.mlb.com/statcast_search/csv"
-OUTPUT_CSV = "data/players_stats.csv"
+DATA_DIR = "data"
+BATTERS_FILE = os.path.join(DATA_DIR, "players_batters.json")
+PITCHERS_FILE = os.path.join(DATA_DIR, "players_pitchers.json")
 
-# These are the statcast columns we'll extract
-SAVANT_FIELDS = [
-    "player_name", "year", "team", "PA", "AVG", "OBP", "SLG", "wOBA",
-    "xBA", "xSLG", "xwOBA", "Barrel%", "HardHit%", "K%", "BB%", "Sprint Speed (ft / sec)"
-]
+CSV_URLS = {
+    "batters": "https://baseballsavant.mlb.com/statcast_search/csv?all=true&year=2025&type=batter",
+    "pitchers": "https://baseballsavant.mlb.com/statcast_search/csv?all=true&year=2025&type=pitcher"
+}
 
-def pull_statcast_data(matched_players):
-    stats = []
-    headers = {"User-Agent": "Mozilla/5.0"}
+def fetch_player_data(url):
+    print(f"Downloading CSV from {url}...")
+    resp = requests.get(url)
+    resp.raise_for_status()
 
-    for player in matched_players:
-        try:
-            params = {
-                "hfPT": "", "hfAB": "", "hfGT": "", "hfC": "", "hfSea": "2024",
-                "hfSit": "", "player_type": "batter",
-                "hfOuts": "", "opponent": "", "pitcher_throws": "", "batter_stands": "",
-                "hfInfield": "", "hfOutfield": "", "stadium": "",
-                "hfFlag": "", "hfPull": "", "metric_1": "", "metric_2": "",
-                "min_pas": "1", "type": "batter", "player_lookup": player["name"]
-            }
+    decoded = resp.content.decode("utf-8").splitlines()
+    reader = csv.DictReader(decoded)
 
-            response = requests.get(SAVANT_URL, params=params, headers=headers)
-            if response.status_code != 200:
-                print(f"Failed to get data for {player['name']}")
-                continue
+    # Collect all rows (each row is a dict of stats for a player event)
+    # We'll extract unique player_name keys and save all data, or filter later
+    players = {}
+    for row in reader:
+        name = row.get("player_name")
+        if not name:
+            continue
+        # Store or update player info — here just collecting last row for simplicity
+        players[name] = row
+    print(f"Fetched data for {len(players)} players.")
+    return players
 
-            decoded = response.content.decode("utf-8")
-            reader = csv.DictReader(decoded.splitlines())
-            for row in reader:
-                row_data = {k: row.get(k, "") for k in SAVANT_FIELDS}
-                row_data["card_name"] = player["card_name"]
-                row_data["uuid"] = player["uuid"]
-                stats.append(row_data)
-                break  # Only take the top result
+def save_json(data, filename):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(filename, "w") as f:
+        json.dump(data, f, indent=2)
+    print(f"Saved data to {filename}")
 
-            time.sleep(1.5)  # avoid hitting rate limits
+def main():
+    batters = fetch_player_data(CSV_URLS["batters"])
+    save_json(batters, BATTERS_FILE)
 
-        except Exception as e:
-            print(f"Error pulling data for {player['name']}: {e}")
-
-    return stats
-
+    pitchers = fetch_player_data(CSV_URLS["pitchers"])
+    save_json(pitchers, PITCHERS_FILE)
 
 if __name__ == "__main__":
-    matched_players = get_matched_players()
-    savant_stats = pull_statcast_data(matched_players)
-    save_csv(OUTPUT_CSV, savant_stats, SAVANT_FIELDS + ["card_name", "uuid"])
-    print(f"✅ Saved {len(savant_stats)} player stat rows to {OUTPUT_CSV}")
-
+    main()
